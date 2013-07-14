@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="activity_titles">
+        <item>@string/strUsername</item>
+        <item>@string/strPassword</item>
+        <item>@string/app_name</item>
+    </array>
+    
+    <array name="activity_logos">
+        <item>@drawable/ic_launcher</item>
+        <item>@drawable/ic_launcher</item>
+        <item>@drawable/ic_launcher</item>
+    </array>
+    
+    <array name="activity_subtitles">
+        <item>@string/action_settings</item>
+        <item>@string/action_settings</item>
+        <item>@string/action_settings</item>
+    </array>
+</resources>
